@@ -80,5 +80,14 @@ My Streamlit app allows users to:
 
 ---
 
+## **Dataset Download Instructions**
+
+To download the dataset for the "Favorita Grocery Sales Forecasting" , follow these steps:
+
+1. Go to the [Kaggle dataset page](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data).
+2. Scroll down the page and click on the **“Download All”** button under the **Data** tab.
+3. Once the files are downloaded, you can use them for your project.
+
+Make sure to log in to your Kaggle account before downloading the files.
 
 
